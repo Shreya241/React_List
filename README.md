@@ -4,12 +4,12 @@
 
 1. Run npm install to get the required dependencies.
 
-<code>npm install</code>
+<pre>npm install</pre>
 
 2. To start the server
 
-<code> npm start </code>
+<pre> npm start </pre>
 
 3. To Visit App:
 
-<code>localhost:3000/ideas</code>
+<pre>localhost:3000/ideas</pre>
